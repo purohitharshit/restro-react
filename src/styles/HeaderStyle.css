@@ -1,0 +1,38 @@
+.navigation-menu{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+}
+
+.navigation-menu li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.navigation-menu li{
+    margin: 0 1rem 0 1rem;
+}
+
+.active{
+    color: goldenrod !important;
+    font-weight: bold !important;
+}
+
+.mobile-navigation{
+    list-style: none;
+}
+
+.mobile-navigation li{
+    margin: 1rem 2rem 0 0;
+}
+
+.mobile-navigation li a{
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
