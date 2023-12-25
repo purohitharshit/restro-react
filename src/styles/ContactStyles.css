@@ -4,7 +4,8 @@
     align-items: center;
     color: rgb(64, 62, 62);
     font-family: monospace;
-    font-size: 2rem;
+    font-size: 1.6rem;
+    text-align: center;
 }
 
 .contact p{

@@ -3,12 +3,13 @@
     justify-content: center;
     text-align: center;
     list-style: none;
+    
 }
 
 .navigation-menu li a{
     text-decoration: none;
     color: aliceblue;
-    font-family:'Times New Roman', Times, serif;
+    font-family: monospace;
     font-size: 1rem;
     font-weight: bold;
 }

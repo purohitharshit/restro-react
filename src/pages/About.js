@@ -31,6 +31,7 @@ const About = () => {
           QuickBite, we invite you to embark on a culinary journey that
           transcends the ordinary. Our Home page is the gateway to an experience
           that blends delectable flavors with a welcoming atmosphere.
+          Our Home is where hospitality thrives. Picture yourself in our inviting space, where modern aesthetics meet timeless charm. Whether you're planning an intimate dinner, a family celebration, or a casual get-together, QuickBite sets the stage for memorable moments.
         </p>
         
         <h2>Discover Our Culinary Artistry</h2>
@@ -40,6 +41,11 @@ const About = () => {
           divine desserts, our menu is a celebration of culinary creativity.
           Each dish tells a story of quality ingredients and expert
           craftsmanship.
+          <br/>
+          At
+          QuickBite, we invite you to embark on a culinary journey that
+          transcends the ordinary. Our Home page is the gateway to an experience
+          that blends delectable flavors with a welcoming atmosphere.
         </p>
         
         <h2>Immerse Yourself in Ambiance</h2>
@@ -48,6 +54,8 @@ const About = () => {
           inviting space, where modern aesthetics meet timeless charm. Whether
           you're planning an intimate dinner, a family celebration, or a casual
           get-together, QuickBite sets the stage for memorable moments.
+          Our Home page is the gateway to an experience
+          that blends delectable flavors with a welcoming atmosphere.
         </p>
         
 
@@ -58,6 +66,8 @@ const About = () => {
           exclusive chef's creations, there's always something exciting
           happening at QuickBite. Join us as we elevate your dining
           experience with unique offerings and seasonal delights.
+          Our Home page is the gateway to an experience
+          that blends delectable flavors with a welcoming atmosphere.
 
 <br/>
 <br/>
